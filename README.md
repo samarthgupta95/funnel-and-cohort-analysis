@@ -96,7 +96,7 @@ Without this visibility, the platform cannot prioritize retention investment, id
 
 - **PostgreSQL 18** — Primary analysis engine: funnel queries, cohort construction, retention matrix, brand/category breakdowns
 - **Python** (Pandas, Matplotlib, Seaborn, SQLAlchemy) — Data validation, visualisation, PACE notebook
-- **Power BI** — Single-page interactive dashboard (amber/gold on black)
+- **Power BI** — Dashboard visualizing key findings 
 - **Jupyter Notebook** — Full PACE-structured analysis
 
 ---
